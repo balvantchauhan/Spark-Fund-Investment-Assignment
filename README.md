@@ -13,3 +13,6 @@ It wants to invest only in English-speaking countries because of the ease of com
 
 For your analysis, consider a country to be English speaking only if English is one of the official languages in that country
 Markup : <kbd>⌘F</kbd>
+
+Markup : - [ ] An uncompleted task
+              - [ ] A subtask
