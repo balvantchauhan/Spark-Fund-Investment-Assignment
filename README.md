@@ -9,7 +9,7 @@ You work for Spark Funds, an asset management company. Spark Funds wants to make
 
 * It wants to invest between 5 to 15 million USD per round of investment
 * It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in
-## * For your analysis, consider a country to be English speaking only if English is one of the official languages in that country
+* For your analysis, consider a country to be English speaking only if English is one of the official languages in that country
 
 ## 1. What is the strategy?
 
@@ -19,7 +19,7 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 
-*Three main data tables for the entire analysis companies.txt mapping.csv rounds2.csv*
+## *Three main data tables for the entire analysis companies.txt mapping.csv rounds2.csv*
 
 ## 3. What is Spark Funds’ business objective?
 
