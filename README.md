@@ -19,7 +19,7 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 
-### Three main data tables for the entire analysis companies.txt mapping.csv rounds2.csv
+##### Three main data tables for the entire analysis companies.txt mapping.csv rounds2.csv
 
 ## 3. What is Spark Funds’ business objective?
 
