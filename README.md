@@ -1,4 +1,4 @@
-# balwant108-Spark-Fund-Investment-Assignment
+# Spark Fund Investment Assignment
 
 
 # Project Brief
